@@ -1,3 +1,11 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+}
+
 body {
   background-color: #e4edf0;
   font-family: helvetica;
@@ -24,9 +32,8 @@ body {
   float: left;
   width: 350px;
   background-color: #1e16b8;
-  /* padding-bottom: 260px;
-  padding-left: 20px; */
   color: white;
+  
 }
 
 img {
@@ -36,4 +43,15 @@ img {
 
 div {
   padding-bottom: auto;
+  padding-left: 14px;
+  margin: 10px;
+
+}
+
+span {
+  font-weight: bold;
+}
+
+.Cookie span {
+  font-family: fantasy;
 }
