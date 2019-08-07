@@ -1,0 +1,39 @@
+body {
+  background-color: #e4edf0;
+  font-family: helvetica;
+}
+
+.Lisa {
+  float:left;
+  width:350px;
+  background-color: pink;
+
+}
+
+
+
+.Charles {
+  float:left;
+  width:350px;
+  background-color: #bd9fd6;
+
+}
+
+
+.Cookie {
+  float: left;
+  width: 350px;
+  background-color: #1e16b8;
+  /* padding-bottom: 260px;
+  padding-left: 20px; */
+  color: white;
+}
+
+img {
+  width: 330px;
+  height: auto;
+}
+
+div {
+  padding-bottom: auto;
+}
