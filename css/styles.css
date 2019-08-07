@@ -33,7 +33,7 @@ body {
   width: 350px;
   background-color: #1e16b8;
   color: white;
-  
+
 }
 
 img {
@@ -54,4 +54,19 @@ span {
 
 .Cookie span {
   font-family: fantasy;
+}
+
+/* difference side screen response   */
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    background-color: red;
+    color: white;
+  }
+}
+
+@media screen and (max-width: 550px) and (min-width: 300px) {
+  body {
+    background-color: green;
+    color: white;
+  }
 }
